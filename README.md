@@ -70,10 +70,22 @@ End-to-end test automation framework using WebdriverIO, Cucumber BDD, JavaScript
 
 Repository: https://github.com/matiasgalvez/qa-wdio-cucumber
 
-### Cypress Automation
-Frontend automation examples using Cypress and JavaScript.
+### Cypress JavaScript E2E Framework
 
-Repository: https://github.com/matiasgalvez/cypress
+Repository: https://github.com/matiasgalvez/cypress-js-e2e-framework
+
+A Cypress Web UI automation framework using JavaScript, Page Object Model, environment configuration, smoke/regression separation, Mochawesome/JUnit reporting, CircleCI integration and an optional Jenkins pipeline.
+
+Covered areas:
+
+- Authentication
+- Navigation
+- Form controls
+- Dynamic loading
+- JavaScript dialogs
+- Smoke tests
+- Regression tests
+- CI/CD quality gates
 
 ### Selenium with Python
 Selenium automation examples using Python.
