@@ -20,6 +20,7 @@ I specialize in building scalable automation frameworks, improving regression co
 A professional QA portfolio aligned with my real-world experience in automation framework design, E2E testing, API validation, CI/CD, mobile testing and manual QA strategy.
 
 Live Portfolio: https://matiasgalvez.github.io/qa-automation-portfolio/
+
 Repository: https://github.com/matiasgalvez/qa-automation-portfolio
 
 ## Featured Automation Projects
